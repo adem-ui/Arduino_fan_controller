@@ -1,0 +1,1 @@
+This project is designed for simulation purposes. Fan activation is simulated through serial messages, but the logic can easily be connected to hardware using a relay module
